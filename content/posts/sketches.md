@@ -99,17 +99,17 @@ When I started my Political Science master’s in Poland, my entrance exam was a
 
 I’m a visual thinker, so I tried to picture this chaos of parties bumping into each other in my head because everything online looked like… this 👇 and made me even more confused.
 
-<img src="/website/images/lewica-0.png" alt="Sketch" style="width:400px; border-radius:8px; display:block; margin:1rem auto;">
+<img src="/static/images/lewica-0.png" alt="Sketch" style="width:400px; border-radius:8px; display:block; margin:1rem auto;">
 
 Fast-forward to 2025: when I learned my friend was writing a big piece about Polish politics, I convinced his newsroom they needed a visualization because, honestly, outside the academic bubble, no one remembers what parties even existed in the ’90s. I figured a good way to show the past is to make it *look* like the past. And when you google “history of political parties,” everything you see is… the US, of course. So this was supposed to inspire me:
 
-<img src="/website//images/us-election.jpg" alt="election" style="width:1000px; border-radius:8px; display:block; margin:1rem auto;">
+<img src="/static//images/us-election.jpg" alt="election" style="width:1000px; border-radius:8px; display:block; margin:1rem auto;">
 
 Now here’s what the process looked like:
 
 | Sketch | Adding data | Refining the SVG | Final outcome |
 |---|---|---|---|
-| ![Sketch](/website/images/lewica-1.jpeg) | ![Wireframe](/website/images/lewica-2.png) | ![Mockup](/website/images/lewica-3.jpeg) | ![Final](/website/images/lewica-4.png) |
+| ![Sketch](/static/images/lewica-1.jpeg) | ![Wireframe](/static/images/lewica-2.png) | ![Mockup](/static/images/lewica-3.jpeg) | ![Final](/static/images/lewica-4.png) |
 |Once I had a vague idea of the structure, I started with a pencil and a highlighter. | Then I scraped a bunch of Wikipedia pages with election results to feel my sketch with data. I could’ve also just copy-pasted into spreadsheets. | A Sankey template from Flourish became an SVG, then took a trip to Illustrator to get cleaned up and styled. | Now compare it to the inspiration. You might think: “Well, at least she tried.” Exactly. Things never go the way you plan but no one knows your original plan anyway, so who cares! |
 
 ## 2. Don’t be shy, ask people you admire for advice
@@ -120,13 +120,13 @@ Here is a couple of examples of how people spark ideas for me.
 
 **Youyou Zhou**, a data journalist at WaPo, helped me with sabotage project.
 
-| ![Sketch](/website/images/sb1.png) | ![Sketch](/website/images/sb2.png) | ![Sketch](/website/images/sb3.jpeg) | ![Sketch](/website/images/sb4.png) |
+| ![Sketch](/static/images/sb1.png) | ![Sketch](/static/images/sb2.png) | ![Sketch](/static/images/sb3.jpeg) | ![Sketch](/static/images/sb4.png) |
 |---|---|---|---|
 | I needed to tell a long, winding story full of unfamiliar names. This is what I showed Youyou. | She suggested a subtle moving-camera effect, like some WaPo author did to guide the reader through his piece. | Here’s a quick mock-up that shows how the motion helps you keep track of who’s who. | And yes, I absolutely stole that trick for my  piece! |
 
 **Katya Mamyan**, a data journalist from Armenia, helped me shape an idea for a radar diagram on political preferences in Poland.
 
-| ![Sketch](/website/images/radar.jpeg) | ![Sketch](/website/images/radar2.jpeg) | ![Sketch](/website/images/radar4.png) | ![Sketch](/website/images/radar3.png) |
+| ![Sketch](/static/images/radar.jpeg) | ![Sketch](/static/images/radar2.jpeg) | ![Sketch](/static/images/radar4.png) | ![Sketch](/static/images/radar3.png) |
 |---|---|---|---|
 | Katya’s sketch. | My version with story-specific data. | A radar diagram built in Flourish. | Final print-ready version. |
 
@@ -136,20 +136,20 @@ Here is a couple of examples of how people spark ideas for me.
 
 A lot of people will tell you that visual exposure is important. I’d say when you see something interesting, immediately think about how you could turn it into a project of your own.
 
-| ![Sketch](/website/images/dh-24.jpeg) | ![Sketch](/website/images/narko1.jpeg) | ![Sketch](/website/images/narko2.jpg) |
+| ![Sketch](/static/images/dh-24.jpeg) | ![Sketch](/static/images/narko1.jpeg) | ![Sketch](/static/images/narko2.jpg) |
 |---|---|---|
 | The Dataharvest conference invites an artist to capture moments from the workshops. The caricatures are gorgeous, I’ve wanted to bring that idea into one of my stories ever since I saw them. | For a story about drugs, we hired an illustrator and I sent this brief. | And here’s what the illustrator came up with.
 
 ## 4. Finally, find people who believe in your ideas—and back you.
 
 <div class="screenshot-collage">
-  <img src="/website/images/shot1.png" alt="Screenshot 1" class="tilt-left">
-  <img src="/website/images/shot2.png" alt="Screenshot 2" class="tilt-right">
-  <img src="/website/images/shot3.png" alt="Screenshot 3" class="tilt-left">
-  <img src="/website/images/shot4.png" alt="Screenshot 4" class="tilt-right">
-  <img src="/website/images/shot6.png" alt="Screenshot 6" class="tilt-right">
-  <img src="/website/images/shot7.png" alt="Screenshot 7" class="tilt-left">
-  <img src="/website/images/shot8.png" alt="Screenshot 8" class="tilt-right">
+  <img src="/static/images/shot1.png" alt="Screenshot 1" class="tilt-left">
+  <img src="/static/images/shot2.png" alt="Screenshot 2" class="tilt-right">
+  <img src="/static/images/shot3.png" alt="Screenshot 3" class="tilt-left">
+  <img src="/static/images/shot4.png" alt="Screenshot 4" class="tilt-right">
+  <img src="/static/images/shot6.png" alt="Screenshot 6" class="tilt-right">
+  <img src="/static/images/shot7.png" alt="Screenshot 7" class="tilt-left">
+  <img src="/static/images/shot8.png" alt="Screenshot 8" class="tilt-right">
 </div>
 
 <span class="highlight">Also, don't forget to tell them when you ***really*** love their work!</span>
