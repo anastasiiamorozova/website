@@ -26,6 +26,12 @@ jobs:
         with:
           go-version: '1.21'
 
+      - name: Setup Dart Sass
+        run: |
+          curl -LJO https://github.com/sass/dart-sass/releases/download/1.70.0/dart-sass-1.70.0-linux-x64.tar.gz
+          tar -xf dart-sass-1.70.0-linux-x64.tar.gz
+          echo "$GITHUB_WORKSPACE/dart-sass/" >> $GITHUB_PATH
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
