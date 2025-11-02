@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://anastasiiamorozova.github.io/website/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'anastasiiamorozova'
 
 
 [module]
@@ -9,3 +9,45 @@ title = 'My New Hugo Site'
   [[module.imports]]
     path = "github.com/lxndrblz/anatole"
     disable = false
+
+[params]
+title = "I'm Anastasiia Morozova"
+author = "Anastasiia Morozova"
+description = "Call me /nastia/"
+profilePicture = "images/profile.jpeg"
+contentratio = 0.7
+hidesidebar = false
+disableTitleCapitalization = true
+relativeURLs = true
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/nst-morozova/"
+
+[menu]
+
+  [[menu.main]]
+  name = "My stories"
+  identifier = "stories"
+  weight = 100
+  url = "https://anastasiiamorozova.github.io/portfolio/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = ""
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
