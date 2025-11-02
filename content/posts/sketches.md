@@ -99,11 +99,11 @@ When I started my Political Science master’s in Poland, my entrance exam was a
 
 I’m a visual thinker, so I tried to picture this chaos of parties bumping into each other in my head because everything online looked like… this 👇 and made me even more confused.
 
-<img src="/static/images/lewica-0.png" alt="Sketch" style="width:400px; border-radius:8px; display:block; margin:1rem auto;">
+<img src="/website/images/lewica-0.png" alt="Sketch" style="width:400px; border-radius:8px; display:block; margin:1rem auto;">
 
 Fast-forward to 2025: when I learned my friend was writing a big piece about Polish politics, I convinced his newsroom they needed a visualization because, honestly, outside the academic bubble, no one remembers what parties even existed in the ’90s. I figured a good way to show the past is to make it *look* like the past. And when you google “history of political parties,” everything you see is… the US, of course. So this was supposed to inspire me:
 
-<img src="/static//images/us-election.jpg" alt="election" style="width:1000px; border-radius:8px; display:block; margin:1rem auto;">
+<img src="/website//images/us-election.jpg" alt="election" style="width:1000px; border-radius:8px; display:block; margin:1rem auto;">
 
 Now here’s what the process looked like:
 
