@@ -140,7 +140,7 @@ A lot of people will tell you that visual exposure is important. I’d say when 
 |---|---|---|
 | The Dataharvest conference invites an artist to capture moments from the workshops. The caricatures are gorgeous, I’ve wanted to bring that idea into one of my stories ever since I saw them. | For a story about drugs, we hired an illustrator and I sent this brief. | And here’s what the illustrator came up with.
 
-## 4. Finally, find people who believe in your ideas—and back you.
+## 4. Finally, find people who believe in your ideas and support you.
 
 <div class="screenshot-collage">
   <img src="/website/images/shot1.png" alt="Screenshot 1" class="tilt-left">
