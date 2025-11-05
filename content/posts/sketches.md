@@ -35,7 +35,8 @@ table img {
   width: 100%;
   max-width: 250px;
   height: 100%;
-  object-fit: contain;    /* keeps proportions, no cropping */
+  max-height: 100%;
+  object-fit: contain;    
   background-color: #f8f8f8;
   border-radius: 6px;
   display: block;
@@ -84,6 +85,8 @@ table img {
   border-radius: 3px;
 }
 
+
+
 /* Optional: responsive tweak */
 @media (max-width: 600px) {
   .screenshot-collage img {
@@ -118,27 +121,27 @@ When I’m totally out of ideas, I go to people who are better than me. You won�
 
 Here is a couple of examples of how people spark ideas for me.
 
-**Youyou Zhou**, a data journalist at WaPo, helped me with sabotage project.
+**<a href="https://x.com/zhoyoyo" target="_blank">Youyou Zhou**</a>, a graphic reporter at WaPo, helped me with sabotage project.
 
-| ![Sketch](/website/images/sb1.png) | ![Sketch](/website/images/sb2.png) | ![Sketch](/website/images/sb3.jpeg) | ![Sketch](/website/images/sb4.png) |
+| ![Sketch](/website/images/sb1.png) | <video src="/website/images/wp.mp4" autoplay muted loop playsinline style="max-width:100%; border-radius:8px;"></video> | ![Sketch](/website/images/sb3.jpeg) | <video src="/website/images/vs.mp4" autoplay muted loop playsinline style="max-width:100%; border-radius:8px;"></video>|
 |---|---|---|---|
-| I needed to tell a long, winding story full of unfamiliar names. This is what I showed Youyou. | She suggested a subtle moving-camera effect, like some WaPo author did to guide the reader through his piece. | Here’s a quick mock-up that shows how the motion helps you keep track of who’s who. | And yes, I absolutely stole that trick for my  piece! |
+| I needed to tell a long, winding story full of unfamiliar names. This is what I showed Youyou. | She suggested a subtle moving-camera effect, like some WaPo author did to guide the reader through his piece. | Here’s a quick mock-up that shows how the motion helps you keep track of who’s who. | And yes, I absolutely stole that trick for my  **<a href="https://vsquare.org/crossing-nato-lines-tracing-the-arson-sabotage-russia-gru-explosive-parcel-bombs/" target="_blank">piece!**</a>|
 
-**Katya Mamyan**, a data journalist from Armenia, helped me shape an idea for a radar diagram on political preferences in Poland.
+**<a href = "https://www.facebook.com/kate.mamyan" target="_blank">Katya Mamyan**</a>, a data journalist from Armenia, helped me shape an idea for a radar diagram on political preferences in Poland.
 
 | ![Sketch](/website/images/radar.jpeg) | ![Sketch](/website/images/radar2.jpeg) | ![Sketch](/website/images/radar4.png) | ![Sketch](/website/images/radar3.png) |
 |---|---|---|---|
 | Katya’s sketch. | My version with story-specific data. | A radar diagram built in Flourish. | Final print-ready version. |
 
-**People are happy when they can help you; you’re happy because you learned something. Everyone is happy and that's beautiful!**
+**People are happy when they can help you; you’re happy because you learn something new. Everyone is happy and that's beautiful!**
 
 ## 3. “Exposure” is nice. Turning what you see into a project is better.
 
-A lot of people will tell you that visual exposure is important. I’d say when you see something interesting, immediately think about how you could turn it into a project of your own.
+A lot of people will tell you that visual exposure is important. I’d say when you see something interesting, immediately think about how you could weave it into something you’ve worked on or plan to.
 
 | ![Sketch](/website/images/dh-24.jpeg) | ![Sketch](/website/images/narko1.jpeg) | ![Sketch](/website/images/narko2.jpg) |
 |---|---|---|
-| The Dataharvest conference invites an artist to capture moments from the workshops. The caricatures are gorgeous, I’ve wanted to bring that idea into one of my stories ever since I saw them. | For a story about drugs, we hired an illustrator and I sent this brief. | And here’s what the illustrator came up with.
+| The Dataharvest conference invites an artist to capture moments from the workshops. The caricatures are gorgeous, I’ve wanted to bring that idea into one of my stories ever since I saw them. | For <a href = "https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/" target = "_blank">a story about drugs</a>, we hired an illustrator and I sent this brief. | And here’s what the illustrator came up with.
 
 ## 4. Finally, find people who believe in your ideas and support you.
 
