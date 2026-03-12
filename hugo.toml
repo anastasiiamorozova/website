@@ -1,6 +1,7 @@
 baseURL = 'https://anastasiiamorozova.github.io/website/'
 languageCode = 'en-us'
 title = 'anastasiiamorozova'
+publishDir = 'docs'
 
 
 [module]
