@@ -93,8 +93,12 @@ body, .body {
   text-align: left;
 }
 
-/* Left-align LinkedIn icon under email */
+/* Left-align LinkedIn icon under email, close to it */
 .sidebar__list {
   text-align: left !important;
   padding-left: 1em;
+  margin-top: 0.25rem;
+}
+.sidebar__introduction-description p {
+  margin-bottom: 0;
 }
