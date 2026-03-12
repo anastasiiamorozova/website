@@ -20,3 +20,15 @@ body, .body {
     background-color: #e7e2da;
   }
 }
+.theme--light .post {
+  background-color: #e7e2da;
+}
+.theme--light .sidebar {
+  background-color: #e7e2da;
+}
+.theme--light .post__thumbnail-wrapper {
+  background-color: #e7e2da;
+}
+.theme--light .post__footer {
+  background-color: #e7e2da;
+}
