@@ -65,7 +65,7 @@ body, .body {
 }
 .post__tags .tag {
   display: inline-block;
-  font-size: 0.75rem;
+  font-size: 0.95rem;
   font-weight: 400;
   letter-spacing: 0.04em;
   text-transform: uppercase;
