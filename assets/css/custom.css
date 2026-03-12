@@ -55,6 +55,8 @@ body, .body {
 .post__content h3 {
   margin-top: 0;
   margin-bottom: 0.3rem;
+  font-size: 1.6rem;
+  font-weight: 700;
 }
 
 /* Tag pills */
@@ -63,17 +65,17 @@ body, .body {
 }
 .post__tags .tag {
   display: inline-block;
-  font-size: 1.3rem;
-  font-weight: normal;
+  font-size: 0.75rem;
+  font-weight: 400;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  padding: 0.2em 0.6em;
+  padding: 0.15em 0.45em;
   border-radius: 3px;
   background-color: #ccc6bc;
   color: #464646 !important;
   text-decoration: none;
-  margin-right: 0.25rem;
-  margin-bottom: 0.2rem;
+  margin-right: 0.2rem;
+  margin-bottom: 0.15rem;
 }
 .post__tags .tag::before,
 .theme--light .post__tags .tag::before {
