@@ -6,37 +6,15 @@
     <description>Recent content in Posts on anastasiiamorozova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 14:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>When the deadline is yesterday</title>
-      <link>https://anastasiiamorozova.github.io/website/posts/sabotage/</link>
-      <pubDate>Wed, 11 Mar 2026 14:00:00 +0100</pubDate>
-      
-      <guid>https://anastasiiamorozova.github.io/website/posts/sabotage/</guid>
-      
-        <description>&lt;p&gt;Two days before publication, the Lithuanian prosecutor&amp;rsquo;s office decided to go public ahead of our investigation. That&amp;rsquo;s how I went from having two days to finish an interactive visualization — to having twenty minutes.&lt;/p&gt;</description>
-      
-    </item>
-    
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My first job for printed press and how I learned InDesign in one day</title>
       <link>https://anastasiiamorozova.github.io/website/posts/pismo/</link>
-      <pubDate>Wed, 11 Mar 2026 13:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0100</pubDate>
       
       <guid>https://anastasiiamorozova.github.io/website/posts/pismo/</guid>
       
         <description>&lt;p&gt;I pitched a data visualization to a Polish lifestyle magazine. They said yes. Then I realized I had no idea how to actually deliver it for print.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>How I created an ML model to uncover drug-trafficking on Telegram</title>
-      <link>https://anastasiiamorozova.github.io/website/posts/drugs/</link>
-      <pubDate>Wed, 11 Mar 2026 12:00:00 +0100</pubDate>
-      
-      <guid>https://anastasiiamorozova.github.io/website/posts/drugs/</guid>
-      
-        <description>&lt;p&gt;Poland&amp;rsquo;s online drug market runs on Telegram, uses the biggest post service, and a fast payment method app most people use to split restaurant bills. Here&amp;rsquo;s how we proved it — &lt;strong&gt;&lt;a href=&#34;https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/&#34; target=&#34;_blank&#34;&gt;read the story&lt;/a&gt;&lt;/strong&gt; or keep reading for the process.&lt;/p&gt;</description>
       
     </item>
     
@@ -48,6 +26,28 @@
       <guid>https://anastasiiamorozova.github.io/website/posts/sketches/</guid>
       
         <description>&lt;p&gt;In this presentation, I share how I come up with ideas and what inspires me. It’s basically about how things never quite go the way I expect them to.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>When the deadline is yesterday</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/sabotage/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/sabotage/</guid>
+      
+        <description>&lt;p&gt;Two days before publication, the Lithuanian prosecutor&amp;rsquo;s office decided to go public ahead of our investigation. That&amp;rsquo;s how I went from having two days to finish an interactive visualization — to having twenty minutes.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How I created an ML model to uncover drug-trafficking on Telegram</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/drugs/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/drugs/</guid>
+      
+        <description>&lt;p&gt;Poland&amp;rsquo;s online drug market runs on Telegram, uses the biggest post service, and a fast payment method app most people use to split restaurant bills. Here&amp;rsquo;s how we proved it — &lt;strong&gt;&lt;a href=&#34;https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/&#34; target=&#34;_blank&#34;&gt;read the story&lt;/a&gt;&lt;/strong&gt; or keep reading for the process.&lt;/p&gt;</description>
       
     </item>
     
