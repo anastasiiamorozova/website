@@ -32,3 +32,20 @@ body, .body {
 .theme--light .post__footer {
   background-color: #e7e2da;
 }
+
+/* Thumbnail left of snippet on main page */
+.post__row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2rem;
+}
+.post__thumbnail-link {
+  flex-shrink: 0;
+}
+.post__row .post__thumbnail {
+  width: 140px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
