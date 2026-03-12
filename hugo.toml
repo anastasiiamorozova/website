@@ -12,7 +12,7 @@ publishDir = 'docs'
 [params]
 title = "I'm Anastasiia Morozova"
 author = "Anastasiia Morozova"
-description = "always up for a new challenge"
+description = "always up for a new challenge\n\nData and investigative journalist\n\nChallenge-driven and a natural team player with a strong interest in combining OSINT and data analysis to uncover stories. I get the most satisfaction from taking a unique idea all the way from pitch through brainstorming, reporting, writing, designing, and editing. Co-authored award-winning investigative pieces.\n\nHere are a few examples of my data work. I use Python to explore and extract data, design visualizations in Illustrator, and create maps with Mapbox and QGIS. For interactive projects, I work with JavaScript and Svelte.\n\nnst.morozova13@gmail.com"
 profilePicture = "images/profile.jpeg"
 contentratio = 0.7
 hidesidebar = false
