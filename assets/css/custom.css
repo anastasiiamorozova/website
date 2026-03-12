@@ -85,7 +85,11 @@ body, .body {
 /* Left-align sidebar text, keep profile picture centered */
 .sidebar__introduction-title {
   text-align: left;
+  margin-left: 0;
+  margin-right: 0;
 }
 .sidebar__introduction-description {
   text-align: left;
+  margin-left: 0;
+  margin-right: 0;
 }
