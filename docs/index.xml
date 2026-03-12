@@ -14,7 +14,7 @@
       
       <guid>https://anastasiiamorozova.github.io/website/posts/pismo/</guid>
       
-        <description>&lt;p&gt;I pitched a data visualization to a Polish lifestyle magazine. They said yes. Then I realized I had no idea how to actually deliver it for print.&lt;/p&gt;</description>
+        <description>&lt;p&gt;A &lt;strong&gt;Sankey diagram&lt;/strong&gt; tracing thirty years of Polish political party history, built from Wikipedia election data scraped into &lt;strong&gt;Flourish&lt;/strong&gt; and exported as &lt;strong&gt;SVG&lt;/strong&gt;, then refined in &lt;strong&gt;Illustrator&lt;/strong&gt; and &lt;strong&gt;InDesign&lt;/strong&gt; for print — published in &lt;a href=&#34;https://magazynpismo.pl/&#34; target=&#34;_blank&#34;&gt;Pismo magazine&lt;/a&gt;. Below is how it came together.&lt;/p&gt;</description>
       
     </item>
     
@@ -47,7 +47,7 @@
       
       <guid>https://anastasiiamorozova.github.io/website/posts/sabotage/</guid>
       
-        <description>&lt;p&gt;Two days before publication, the Lithuanian prosecutor&amp;rsquo;s office decided to go public ahead of our investigation. That&amp;rsquo;s how I went from having two days to finish an interactive visualization — to having twenty minutes.&lt;/p&gt;</description>
+        <description>&lt;p&gt;An interactive &lt;strong&gt;scrollytelling&lt;/strong&gt; piece built with custom &lt;strong&gt;JavaScript&lt;/strong&gt; injected into a &lt;strong&gt;CMS&lt;/strong&gt; that didn&amp;rsquo;t support it. I added a moving-camera effect to guide readers through a dense network of names and connections across several countries. Named Innovation of the Year in media by Wirtualne Media in 2026. &lt;a href=&#34;https://vsquare.org/crossing-nato-lines-tracing-the-arson-sabotage-russia-gru-explosive-parcel-bombs/&#34; target=&#34;_blank&#34;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -58,7 +58,150 @@
       
       <guid>https://anastasiiamorozova.github.io/website/posts/drugs/</guid>
       
-        <description>&lt;p&gt;Poland&amp;rsquo;s online drug market runs on Telegram, uses the biggest post service, and a fast payment method app most people use to split restaurant bills. Here&amp;rsquo;s how we proved it — &lt;strong&gt;&lt;a href=&#34;https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/&#34; target=&#34;_blank&#34;&gt;read the story&lt;/a&gt;&lt;/strong&gt; or keep reading for the process.&lt;/p&gt;</description>
+        <description>&lt;p&gt;I scraped 500,000 messages from 1,500 &lt;strong&gt;Telegram&lt;/strong&gt; channels using &lt;strong&gt;Telethon&lt;/strong&gt; and a snowballing method, then built a &lt;strong&gt;Doc2Vec classifier&lt;/strong&gt; trained on 300 manually labeled drug ads to identify advertisements at scale. The investigation showed that Poland&amp;rsquo;s online drug market runs on Telegram, InPost parcel lockers, and BLIK — &lt;a href=&#34;https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/&#34; target=&#34;_blank&#34;&gt;the full story is here&lt;/a&gt;, and below is how I built it.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mapping Russia&#39;s War Machine on NATO&#39;s Doorstep</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/nato-bases/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/nato-bases/</guid>
+      
+        <description>&lt;p&gt;We used high-resolution &lt;strong&gt;satellite imagery&lt;/strong&gt; to map Russian military base activity along NATO&amp;rsquo;s eastern border. &lt;strong&gt;GRU&lt;/strong&gt; special forces in Kaliningrad are being trained for sabotage operations, and new nuclear weapons infrastructure is taking shape in Belarus.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Russian diplomatic facilities serve as SIGINT nests in Europe</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/sigint/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/sigint/</guid>
+      
+        <description>&lt;p&gt;We identified &lt;strong&gt;signals intelligence (SIGINT)&lt;/strong&gt; equipment mounted on rooftops of Russian diplomatic facilities across Europe. Verified through &lt;strong&gt;satellite imagery&lt;/strong&gt; and &lt;strong&gt;open-source research&lt;/strong&gt;, the same setup appeared from Warsaw to Budapest, Stockholm, and Brussels.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How safe are you in Sumy during an air raid alert?</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/sumy/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/sumy/</guid>
+      
+        <description>&lt;p&gt;I used &lt;strong&gt;QGIS&lt;/strong&gt; and official shelter location data from local authorities to map how well protected residents of Sumy region&amp;rsquo;s largest cities actually are during air raid alerts. Visualized in &lt;strong&gt;Illustrator&lt;/strong&gt; and published on Instagram. Made for my home region in Ukraine, dedicated to Kordon.Media.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Online neo-Nazi Store and Customers From Central Europe Exposed</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/midgard/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/midgard/</guid>
+      
+        <description>&lt;p&gt;A &lt;strong&gt;database of 20,000 purchases&lt;/strong&gt; from the neo-Nazi webshop Midgård was leaked by the antifascist organization AFA. We analyzed the &lt;strong&gt;customer register&lt;/strong&gt; to map how widespread its Central European sales network is, identifying buyers across Poland, Czechia, and Slovakia.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The map of toxic Poland</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/toxic-poland/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/toxic-poland/</guid>
+      
+        <description>&lt;p&gt;We automated 3,000 &lt;strong&gt;FOIA requests&lt;/strong&gt; to map illegal waste dumps across Poland, then used an &lt;strong&gt;LLM&lt;/strong&gt; to extract location data from &lt;strong&gt;PDF responses&lt;/strong&gt;. Ground-truthed on site, the dataset revealed nearly 200 hazardous dump sites nationwide — three of them caught fire in May 2024 alone.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>KREMLIN LEAKS: secret files reveal how Putin pre-rigged his reelection</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/kremlin-reelection/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/kremlin-reelection/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Leaked Kremlin documents&lt;/strong&gt; reveal the infrastructure behind Putin&amp;rsquo;s reelection: a pan-Russian &lt;strong&gt;propaganda network&lt;/strong&gt;, &lt;strong&gt;internet censorship&lt;/strong&gt; machinery, and coordinated &lt;strong&gt;information warfare&lt;/strong&gt; operations. We analyzed the files as part of a cross-border team.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>KREMLIN LEAKS: how Putin turned the Red Cross into a tool of propaganda and war</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/redcross/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/redcross/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Leaked documents&lt;/strong&gt; show how the Russian Red Cross, legally required to stay neutral, became a vehicle for Kremlin propaganda. We traced how Moscow uses it to extend influence abroad under the cover of the International Red Cross brand.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unpacking CEE&#39;s biggest oil company&#39;s promises to go green</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/orlen/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/orlen/</guid>
+      
+        <description>&lt;p&gt;Orlen presents itself as a green energy leader. We dug into &lt;strong&gt;company filings&lt;/strong&gt; and &lt;strong&gt;public data&lt;/strong&gt; and found a company fighting to preserve oil refining profits, using Poland&amp;rsquo;s slow green transition as cover. Published as a &lt;strong&gt;scrollytelling&lt;/strong&gt; piece.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ANDROMEDA: Ukrainian puzzle</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/andromeda/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/andromeda/</guid>
+      
+        <description>&lt;p&gt;We tracked the yacht Andromeda, suspected in the Nord Stream pipeline explosions, by cross-referencing &lt;strong&gt;satellite imagery&lt;/strong&gt; and &lt;strong&gt;AIS vessel tracking&lt;/strong&gt; data. On-ground &lt;strong&gt;OSINT&lt;/strong&gt; reporting led us to a Kyiv businessman whose company had rented the boat.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>FIREHOSE OF FALSEHOOD</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/firehose/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/firehose/</guid>
+      
+        <description>&lt;p&gt;We mapped a network of pro-Russian and alt-right &lt;strong&gt;disinformation sites&lt;/strong&gt; operating across Central and Eastern Europe. Using &lt;strong&gt;network analysis&lt;/strong&gt;, we showed how these sites cross-reference each other to amplify Russian narratives and spread conspiracy theories in local languages.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Banknote mulch</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/banknote-mulch/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/banknote-mulch/</guid>
+      
+        <description>&lt;p&gt;During eight years of PiS rule, Polish forest districts funneled tens of millions in public funds to churches, nationalist organizations, and entities connected to the foresters themselves. We tracked the money using &lt;strong&gt;public spending data&lt;/strong&gt; and a &lt;strong&gt;custom text classifier&lt;/strong&gt; to categorize thousands of transfers.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>RUSSIAN ASSET TRACKER</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/russian-assets/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/russian-assets/</guid>
+      
+        <description>&lt;p&gt;A joint &lt;strong&gt;OCCRP&lt;/strong&gt; investigation with 25 newsrooms tracking the assets of Russian oligarchs on Navalny&amp;rsquo;s Anti-Corruption Foundation list of 35. We covered Poland and Central Europe, cross-referencing &lt;strong&gt;property records&lt;/strong&gt;, &lt;strong&gt;corporate filings&lt;/strong&gt;, and &lt;strong&gt;public databases&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>See Minsk and die</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/minsk/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/minsk/</guid>
+      
+        <description>&lt;p&gt;We traced &lt;strong&gt;financial flows&lt;/strong&gt; linking companies in the Lukashenko regime&amp;rsquo;s orbit to migrant smuggling networks bringing people from the Middle East into Europe. &lt;strong&gt;OSINT&lt;/strong&gt; and on-ground reporting uncovered direct ties between the regime and the traffickers.&lt;/p&gt;</description>
       
     </item>
     

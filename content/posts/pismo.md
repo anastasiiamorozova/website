@@ -5,9 +5,11 @@ title = 'My first job for printed press and how I learned InDesign in one day'
 thumbnail = "images/radar6.jpg"
 +++
 
-I pitched a data visualization to a Polish lifestyle magazine. They said yes. Then I realized I had no idea how to actually deliver it for print.
+A **Sankey diagram** tracing thirty years of Polish political party history, built from Wikipedia election data scraped into **Flourish** and exported as **SVG**, then refined in **Illustrator** and **InDesign** for print — published in <a href="https://magazynpismo.pl/" target="_blank">Pismo magazine</a>. Below is how it came together.
 
 <!--more-->
+
+I pitched a data visualization to a Polish lifestyle magazine. They said yes. Then I realized I had no idea how to actually deliver it for print.
 
 <style>
 .post-content img {

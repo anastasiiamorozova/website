@@ -5,7 +5,7 @@ title = 'How I created an ML model to uncover drug-trafficking on Telegram'
 thumbnail = "images/narko-cover.jpg"
 +++
 
-Poland's online drug market runs on Telegram, uses the biggest post service, and a fast payment method app most people use to split restaurant bills. Here's how we proved it — **<a href="https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/" target="_blank">read the story</a>** or keep reading for the process.
+I scraped 500,000 messages from 1,500 **Telegram** channels using **Telethon** and a snowballing method, then built a **Doc2Vec classifier** trained on 300 manually labeled drug ads to identify advertisements at scale. The investigation showed that Poland's online drug market runs on Telegram, InPost parcel lockers, and BLIK — <a href="https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/" target="_blank">the full story is here</a>, and below is how I built it.
 
 <!--more-->
 

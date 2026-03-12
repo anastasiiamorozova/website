@@ -5,9 +5,11 @@ title = 'When the deadline is yesterday'
 thumbnail = "images/parcel.jpeg"
 +++
 
-Two days before publication, the Lithuanian prosecutor's office decided to go public ahead of our investigation. That's how I went from having two days to finish an interactive visualization — to having twenty minutes.
+An interactive **scrollytelling** piece built with custom **JavaScript** injected into a **CMS** that didn't support it. I added a moving-camera effect to guide readers through a dense network of names and connections across several countries. Named Innovation of the Year in media by Wirtualne Media in 2026. <a href="https://vsquare.org/crossing-nato-lines-tracing-the-arson-sabotage-russia-gru-explosive-parcel-bombs/" target="_blank">Read the full story.</a>
 
 <!--more-->
+
+Two days before publication, the Lithuanian prosecutor's office decided to go public ahead of our investigation. That's how I went from having two days to finish an interactive visualization — to having twenty minutes.
 
 <style>
 .post-content img {
