@@ -12,7 +12,7 @@ publishDir = 'docs'
 [params]
 title = "I'm Anastasiia Morozova"
 author = "Anastasiia Morozova"
-description = "Call me /nastia/"
+description = "always up for a new challenge"
 profilePicture = "images/profile.jpeg"
 contentratio = 0.7
 hidesidebar = false
