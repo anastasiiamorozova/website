@@ -33,7 +33,7 @@ Here's how we were planning the layout with my colleague:
 
 <video src="/website/images/IMG_0963.MOV" autoplay muted loop playsinline style="max-width:300px; border-radius:8px; display:block; margin:1rem auto;"></video>
 
-**<a href="https://x.com/zhoyoyo" target="_blank">Youyou Zhou</a>**, a graphic reporter at WaPo, helped me with the sabotage project. This is what I showed Youyou when I was figuring out the structure.
+**<a href="https://x.com/zhoyoyo" target="_blank">Youyou Zhou</a>**, a graphic reporter at WaPo, helped me with this project.
 
 She suggested a subtle moving-camera effect — something a WaPo author had used to guide readers through a dense piece. Exactly what I needed.
 
