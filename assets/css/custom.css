@@ -55,8 +55,10 @@ body, .body {
 .post__content h3 {
   margin-top: 0;
   margin-bottom: 0.3rem;
-  font-size: 1.6rem;
   font-weight: 700;
+}
+.post__content h3 a {
+  font-size: 2.4rem;
 }
 
 /* Tag pills */
@@ -93,11 +95,16 @@ body, .body {
   text-align: left;
 }
 
+/* Profile picture air above */
+.sidebar__introduction-profileimage {
+  margin-top: 2rem;
+}
+
 /* Left-align LinkedIn icon under email, close to it */
 .sidebar__list {
   text-align: left !important;
   padding-left: 1em;
-  margin-top: 0.25rem;
+  margin-top: 0.1rem;
 }
 .sidebar__introduction-description p {
   margin-bottom: 0;
