@@ -2,6 +2,7 @@
 date = '2026-03-11T14:00:00+01:00'
 draft = false
 title = 'When the deadline is yesterday'
+thumbnail = "images/parcel.jpeg"
 +++
 
 Two days before publication, the Lithuanian prosecutor's office decided to go public ahead of our investigation. That's how I went from having two days to finish an interactive visualization — to having twenty minutes.

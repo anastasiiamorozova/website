@@ -2,6 +2,7 @@
 date = '2025-11-01T12:00:00+01:00'
 draft = false
 title = 'From sketch to viz'
+thumbnail = "images/lewica-1.jpeg"
 +++
 In this presentation, I share how I come up with ideas and what inspires me. It’s basically about how things never quite go the way I expect them to.
 

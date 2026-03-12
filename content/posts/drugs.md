@@ -2,6 +2,7 @@
 date = '2026-03-11T12:00:00+01:00'
 draft = false
 title = 'How I created an ML model to uncover drug-trafficking on Telegram'
+thumbnail = "images/narko-cover.jpg"
 +++
 
 Poland's online drug market runs on Telegram, uses the biggest post service, and a fast payment method app most people use to split restaurant bills. Here's how we proved it — **<a href="https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/" target="_blank">read the story</a>** or keep reading for the process.

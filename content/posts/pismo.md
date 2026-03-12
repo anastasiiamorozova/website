@@ -2,6 +2,7 @@
 date = '2026-03-11T13:00:00+01:00'
 draft = false
 title = 'My first job for printed press and how I learned InDesign in one day'
+thumbnail = "images/radar6.jpg"
 +++
 
 I pitched a data visualization to a Polish lifestyle magazine. They said yes. Then I realized I had no idea how to actually deliver it for print.
