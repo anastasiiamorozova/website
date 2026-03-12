@@ -82,10 +82,7 @@ body, .body {
   background-color: #b8b2a8;
 }
 
-/* Left-align sidebar text */
-.sidebar__introduction {
-  text-align: left;
-}
+/* Left-align sidebar text, keep profile picture centered */
 .sidebar__introduction-title {
   text-align: left;
 }
