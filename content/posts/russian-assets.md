@@ -9,4 +9,7 @@ A joint **OCCRP** investigation with 25 newsrooms tracking the assets of Russian
 
 <!--more-->
 
+<img src="/website/images/occrp.jpg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/russian-assets-in-v4-countries/" target="_blank">Read the full story.</a>**

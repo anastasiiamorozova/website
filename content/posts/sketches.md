@@ -1,5 +1,5 @@
 +++
-date = '2025-11-01T12:00:00+01:00'
+date = '2024-12-20T12:00:00+01:00'
 draft = false
 title = 'From sketch to viz'
 thumbnail = "images/lewica-1.jpeg"

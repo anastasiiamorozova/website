@@ -9,4 +9,7 @@ We automated 3,000 **FOIA requests** to map illegal waste dumps across Poland, t
 
 <!--more-->
 
+<img src="/website/images/LANDSCAPE_1280.jpeg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://smieci.frontstory.pl/" target="_blank">Read the full story.</a>**

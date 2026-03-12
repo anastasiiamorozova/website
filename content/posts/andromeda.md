@@ -9,4 +9,7 @@ We tracked the yacht Andromeda, suspected in the Nord Stream pipeline explosions
 
 <!--more-->
 
+<img src="/website/images/andromeda-jacht-nord-stream-1024x572.jpg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://frontstory.pl/andromeda-rurociag-nord-stream-wybuch-ukraina-trasa-rosja-niemcy/" target="_blank">Read the full story.</a>**

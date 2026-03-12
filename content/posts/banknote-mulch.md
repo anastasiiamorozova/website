@@ -9,4 +9,7 @@ During eight years of PiS rule, Polish forest districts funneled tens of million
 
 <!--more-->
 
+<img src="/website/images/sciolka.jpg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://frontstory.pl/lasy-panstwowe-pieniadze-fundusz-darowizny-kosciol-solidarna-polska/" target="_blank">Read the full story.</a>**

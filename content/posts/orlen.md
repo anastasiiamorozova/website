@@ -9,4 +9,7 @@ Orlen presents itself as a green energy leader. We dug into **company filings** 
 
 <!--more-->
 
+<img src="/website/images/orlen.jpg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/orlen-oil-green-transformation-poland-gas-usa/" target="_blank">Read the full story.</a>**

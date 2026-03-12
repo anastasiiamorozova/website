@@ -9,4 +9,7 @@ A **database of 20,000 purchases** from the neo-Nazi webshop Midgård was leaked
 
 <!--more-->
 
+<img src="/website/images/midgard.png" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/nazi-shop-sweden-poland-czech-slovak-politics/" target="_blank">Read the full story.</a>**

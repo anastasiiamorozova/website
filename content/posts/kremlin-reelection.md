@@ -9,4 +9,7 @@ thumbnail = "images/kremlin-putin-vsquare.jpeg"
 
 <!--more-->
 
+<img src="/website/images/kremlin-putin-vsquare.jpeg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/kremlin-leaks-putin-elections-russia-propaganda-ukraine/" target="_blank">Read the full story.</a>**

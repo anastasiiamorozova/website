@@ -9,4 +9,7 @@ We mapped a network of pro-Russian and alt-right **disinformation sites** operat
 
 <!--more-->
 
+<img src="/website/images/tank_ikona_pl.jpeg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/firehose-of-falsehood-russia-disinformation-propaganda-europe/" target="_blank">Read the full story.</a>**

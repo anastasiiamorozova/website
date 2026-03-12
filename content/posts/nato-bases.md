@@ -9,4 +9,7 @@ We used high-resolution **satellite imagery** to map Russian military base activ
 
 <!--more-->
 
+<img src="/website/images/asipovichy.png" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/russia-military-bases-threat-europe-nato/" target="_blank">Read the full story.</a>**

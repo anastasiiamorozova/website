@@ -9,4 +9,7 @@ We traced **financial flows** linking companies in the Lukashenko regime's orbit
 
 <!--more-->
 
+<img src="/website/images/FR_banner_Lukaszenka_1920x641.png" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/see-minsk-and-die-how-belarusian-firms-smuggle-refugees/" target="_blank">Read the full story.</a>**

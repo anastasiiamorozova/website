@@ -9,4 +9,7 @@ thumbnail = "images/redcross2.jpeg"
 
 <!--more-->
 
+<img src="/website/images/redcross2.jpeg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://vsquare.org/kremlin-leaks-putin-red-cross-propaganda-war/" target="_blank">Read the full story.</a>**

@@ -9,4 +9,7 @@ I used **QGIS** and official shelter location data from local authorities to map
 
 <!--more-->
 
+<img src="/website/images/sumy.png" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+
+
 **<a href="https://www.instagram.com/p/C9zrP7vu4WU/" target="_blank">See the map on Instagram.</a>**
