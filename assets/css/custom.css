@@ -59,6 +59,9 @@ body, .body {
 }
 .post__content h3 a {
   font-size: 2.4rem;
+  text-transform: uppercase;
+  line-height: 1.2;
+  font-weight: 800;
 }
 
 /* Tag pills */
