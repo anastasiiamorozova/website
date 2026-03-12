@@ -62,7 +62,7 @@ body, .body {
 }
 .post__tags .tag {
   display: inline-block;
-  font-size: 0.85rem;
+  font-size: 1.3rem;
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -80,4 +80,15 @@ body, .body {
 }
 .post__tags .tag:hover {
   background-color: #b8b2a8;
+}
+
+/* Left-align sidebar text */
+.sidebar__introduction {
+  text-align: left;
+}
+.sidebar__introduction-title {
+  text-align: left;
+}
+.sidebar__introduction-description {
+  text-align: left;
 }
