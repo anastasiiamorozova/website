@@ -4,7 +4,7 @@ draft = false
 title = 'When the deadline is yesterday'
 +++
 
-Two days before publication, the Lithuanian prosecutor's office decided to go public ahead of our investigation. That's how I went from having two days to finish an interactive visualisation — to having twenty minutes.
+Two days before publication, the Lithuanian prosecutor's office decided to go public ahead of our investigation. That's how I went from having two days to finish an interactive visualization — to having twenty minutes.
 
 <!--more-->
 
