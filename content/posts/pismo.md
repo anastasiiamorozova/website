@@ -1,5 +1,5 @@
 +++
-date = '2026-03-12T12:00:00+01:00'
+date = '2026-03-11T13:00:00+01:00'
 draft = false
 title = 'My first job for printed press and how I learned InDesign in one day'
 +++
