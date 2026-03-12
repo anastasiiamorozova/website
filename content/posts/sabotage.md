@@ -1,7 +1,7 @@
 +++
 date = '2026-03-13T12:00:00+01:00'
 draft = false
-title = 'When the deadline is due yesterday'
+title = 'When the deadline is yesterday'
 +++
 
 Two days before publication, the Lithuanian prosecutor's office decided to go public ahead of our investigation. That's how I went from having two days to finish an interactive visualisation — to having twenty minutes.
