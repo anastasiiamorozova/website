@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OSINT on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/osint/</link>
+    <description>Recent content in OSINT on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/osint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When the deadline is yesterday</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/sabotage/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/sabotage/</guid>
+      
+        <description>&lt;p&gt;An interactive &lt;strong&gt;scrollytelling&lt;/strong&gt; piece built with custom &lt;strong&gt;JavaScript&lt;/strong&gt; injected into a &lt;strong&gt;CMS&lt;/strong&gt; that didn&amp;rsquo;t support it. I added a moving-camera effect to guide readers through a dense network of names and connections across several countries. Named Innovation of the Year in media by Wirtualne Media in 2026. &lt;a href=&#34;https://vsquare.org/crossing-nato-lines-tracing-the-arson-sabotage-russia-gru-explosive-parcel-bombs/&#34; target=&#34;_blank&#34;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Russian diplomatic facilities serve as SIGINT nests in Europe</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/sigint/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/sigint/</guid>
+      
+        <description>&lt;p&gt;We identified &lt;strong&gt;signals intelligence (SIGINT)&lt;/strong&gt; equipment mounted on rooftops of Russian diplomatic facilities across Europe. Verified through &lt;strong&gt;satellite imagery&lt;/strong&gt; and &lt;strong&gt;open-source research&lt;/strong&gt;, the same setup appeared from Warsaw to Budapest, Stockholm, and Brussels.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>KREMLIN LEAKS: secret files reveal how Putin pre-rigged his reelection</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/kremlin-reelection/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/kremlin-reelection/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Leaked Kremlin documents&lt;/strong&gt; reveal the infrastructure behind Putin&amp;rsquo;s reelection: a pan-Russian &lt;strong&gt;propaganda network&lt;/strong&gt;, &lt;strong&gt;internet censorship&lt;/strong&gt; machinery, and coordinated &lt;strong&gt;information warfare&lt;/strong&gt; operations. We analyzed the files as part of a cross-border team.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>KREMLIN LEAKS: how Putin turned the Red Cross into a tool of propaganda and war</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/redcross/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/redcross/</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;Leaked documents&lt;/strong&gt; show how the Russian Red Cross, legally required to stay neutral, became a vehicle for Kremlin propaganda. We traced how Moscow uses it to extend influence abroad under the cover of the International Red Cross brand.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ANDROMEDA: Ukrainian puzzle</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/andromeda/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/andromeda/</guid>
+      
+        <description>&lt;p&gt;We tracked the yacht Andromeda, suspected in the Nord Stream pipeline explosions, by cross-referencing &lt;strong&gt;satellite imagery&lt;/strong&gt; and &lt;strong&gt;AIS vessel tracking&lt;/strong&gt; data. On-ground &lt;strong&gt;OSINT&lt;/strong&gt; reporting led us to a Kyiv businessman whose company had rented the boat.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>RUSSIAN ASSET TRACKER</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/russian-assets/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/russian-assets/</guid>
+      
+        <description>&lt;p&gt;A joint &lt;strong&gt;OCCRP&lt;/strong&gt; investigation with 25 newsrooms tracking the assets of Russian oligarchs on Navalny&amp;rsquo;s Anti-Corruption Foundation list of 35. We covered Poland and Central Europe, cross-referencing &lt;strong&gt;property records&lt;/strong&gt;, &lt;strong&gt;corporate filings&lt;/strong&gt;, and &lt;strong&gt;public databases&lt;/strong&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>See Minsk and die</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/minsk/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/minsk/</guid>
+      
+        <description>&lt;p&gt;We traced &lt;strong&gt;financial flows&lt;/strong&gt; linking companies in the Lukashenko regime&amp;rsquo;s orbit to migrant smuggling networks bringing people from the Middle East into Europe. &lt;strong&gt;OSINT&lt;/strong&gt; and on-ground reporting uncovered direct ties between the regime and the traffickers.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

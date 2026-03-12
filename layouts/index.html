@@ -46,6 +46,9 @@
           {{ else }}
             <h3><a href="{{ .RelPermalink }}">{{ upper .Title }}</a></h3>
           {{ end }}
+          {{ with .Page.Params.Tags }}
+            <div class="post__tags">{{ partial "taxonomy/tags.html" . }}</div>
+          {{ end }}
           {{ if .Site.Params.fullPostContent }}
             <p>{{ .Content | safeHTML | plainify }}</p>
           {{ else }}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Investigation on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/visual-investigation/</link>
+    <description>Recent content in Visual Investigation on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/visual-investigation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When the deadline is yesterday</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/sabotage/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/sabotage/</guid>
+      
+        <description>&lt;p&gt;An interactive &lt;strong&gt;scrollytelling&lt;/strong&gt; piece built with custom &lt;strong&gt;JavaScript&lt;/strong&gt; injected into a &lt;strong&gt;CMS&lt;/strong&gt; that didn&amp;rsquo;t support it. I added a moving-camera effect to guide readers through a dense network of names and connections across several countries. Named Innovation of the Year in media by Wirtualne Media in 2026. &lt;a href=&#34;https://vsquare.org/crossing-nato-lines-tracing-the-arson-sabotage-russia-gru-explosive-parcel-bombs/&#34; target=&#34;_blank&#34;&gt;Read the full story.&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,7 @@
 +++
 date = '2025-02-20T00:00:00+01:00'
 draft = false
+tags = ["Visual story", "Data", "Machine learning", "Python"]
 title = 'How I created an ML model to uncover drug-trafficking on Telegram'
 thumbnail = "images/narko-cover.jpg"
 +++

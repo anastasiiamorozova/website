@@ -43,9 +43,37 @@ body, .body {
   flex-shrink: 0;
 }
 .post__row .post__thumbnail {
-  width: 140px;
-  height: 100px;
+  width: 170px;
+  height: 120px;
   object-fit: cover;
   border-radius: 4px;
   display: block;
+}
+
+/* Fix h3 spacing — top margin removed so text aligns to top */
+.post__content h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+/* Tag pills */
+.post__tags {
+  margin-bottom: 0.5rem;
+}
+.post__tags .tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.15em 0.6em;
+  border-radius: 3px;
+  background-color: #ccc6bc;
+  color: #464646;
+  text-decoration: none;
+  margin-right: 0.3rem;
+  margin-bottom: 0.2rem;
+}
+.post__tags .tag:hover {
+  background-color: #b8b2a8;
 }

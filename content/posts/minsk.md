@@ -1,6 +1,7 @@
 +++
 date = '2022-06-01T00:00:00+01:00'
 draft = false
+tags = ["Investigation", "OSINT"]
 title = 'See Minsk and die'
 thumbnail = "images/FR_banner_Lukaszenka_1920x641.png"
 +++

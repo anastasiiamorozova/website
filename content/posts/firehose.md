@@ -1,6 +1,7 @@
 +++
 date = '2023-06-01T00:00:00+01:00'
 draft = false
+tags = ["Data", "Investigation", "Network analysis"]
 title = 'FIREHOSE OF FALSEHOOD'
 thumbnail = "images/tank_ikona_pl.jpeg"
 +++

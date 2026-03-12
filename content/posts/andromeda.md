@@ -1,6 +1,7 @@
 +++
 date = '2023-09-01T00:00:00+01:00'
 draft = false
+tags = ["Investigation", "OSINT", "Satellite imagery"]
 title = 'ANDROMEDA: Ukrainian puzzle'
 thumbnail = "images/andromeda-jacht-nord-stream-1024x572.jpg"
 +++

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOIA on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/foia/</link>
+    <description>Recent content in FOIA on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/foia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The map of toxic Poland</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/toxic-poland/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/toxic-poland/</guid>
+      
+        <description>&lt;p&gt;We automated 3,000 &lt;strong&gt;FOIA requests&lt;/strong&gt; to map illegal waste dumps across Poland, then used an &lt;strong&gt;LLM&lt;/strong&gt; to extract location data from &lt;strong&gt;PDF responses&lt;/strong&gt;. Ground-truthed on site, the dataset revealed nearly 200 hazardous dump sites nationwide — three of them caught fire in May 2024 alone.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

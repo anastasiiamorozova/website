@@ -1,6 +1,7 @@
 +++
 date = '2025-12-01T00:00:00+01:00'
 draft = false
+tags = ["Data", "Illustrator", "Print", "Flourish"]
 title = 'My first job for printed press and how I learned InDesign in one day'
 thumbnail = "images/radar6.jpg"
 +++

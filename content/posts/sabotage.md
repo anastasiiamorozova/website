@@ -1,6 +1,7 @@
 +++
 date = '2025-09-17T00:00:00+01:00'
 draft = false
+tags = ["Visual investigation", "OSINT", "Scrollytelling", "JavaScript"]
 title = 'When the deadline is yesterday'
 thumbnail = "images/parcel.jpeg"
 +++

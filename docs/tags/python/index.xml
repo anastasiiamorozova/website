@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/python/</link>
+    <description>Recent content in Python on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created an ML model to uncover drug-trafficking on Telegram</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/drugs/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/drugs/</guid>
+      
+        <description>&lt;p&gt;I scraped 500,000 messages from 1,500 &lt;strong&gt;Telegram&lt;/strong&gt; channels using &lt;strong&gt;Telethon&lt;/strong&gt; and a snowballing method, then built a &lt;strong&gt;Doc2Vec classifier&lt;/strong&gt; trained on 300 manually labeled drug ads to identify advertisements at scale. The investigation showed that Poland&amp;rsquo;s online drug market runs on Telegram, InPost parcel lockers, and BLIK — &lt;a href=&#34;https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/&#34; target=&#34;_blank&#34;&gt;the full story is here&lt;/a&gt;, and below is how I built it.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

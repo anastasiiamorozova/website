@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flourish on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/flourish/</link>
+    <description>Recent content in Flourish on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/flourish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first job for printed press and how I learned InDesign in one day</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/pismo/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/pismo/</guid>
+      
+        <description>&lt;p&gt;A &lt;strong&gt;Sankey diagram&lt;/strong&gt; tracing thirty years of Polish political party history, built from Wikipedia election data scraped into &lt;strong&gt;Flourish&lt;/strong&gt; and exported as &lt;strong&gt;SVG&lt;/strong&gt;, then refined in &lt;strong&gt;Illustrator&lt;/strong&gt; and &lt;strong&gt;InDesign&lt;/strong&gt; for print — published in &lt;a href=&#34;https://magazynpismo.pl/&#34; target=&#34;_blank&#34;&gt;Pismo magazine&lt;/a&gt;. Below is how it came together.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

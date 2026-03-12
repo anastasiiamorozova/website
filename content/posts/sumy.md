@@ -1,6 +1,7 @@
 +++
 date = '2024-07-01T00:00:00+01:00'
 draft = false
+tags = ["QGIS", "Illustrator"]
 title = 'How safe are you in Sumy during an air raid alert?'
 thumbnail = "images/sumy.png"
 +++

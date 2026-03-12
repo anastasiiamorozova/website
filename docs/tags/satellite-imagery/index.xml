@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Satellite Imagery on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/satellite-imagery/</link>
+    <description>Recent content in Satellite Imagery on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/satellite-imagery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Russia&#39;s War Machine on NATO&#39;s Doorstep</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/nato-bases/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/nato-bases/</guid>
+      
+        <description>&lt;p&gt;We used high-resolution &lt;strong&gt;satellite imagery&lt;/strong&gt; to map Russian military base activity along NATO&amp;rsquo;s eastern border. &lt;strong&gt;GRU&lt;/strong&gt; special forces in Kaliningrad are being trained for sabotage operations, and new nuclear weapons infrastructure is taking shape in Belarus.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>ANDROMEDA: Ukrainian puzzle</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/andromeda/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/andromeda/</guid>
+      
+        <description>&lt;p&gt;We tracked the yacht Andromeda, suspected in the Nord Stream pipeline explosions, by cross-referencing &lt;strong&gt;satellite imagery&lt;/strong&gt; and &lt;strong&gt;AIS vessel tracking&lt;/strong&gt; data. On-ground &lt;strong&gt;OSINT&lt;/strong&gt; reporting led us to a Kyiv businessman whose company had rented the boat.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

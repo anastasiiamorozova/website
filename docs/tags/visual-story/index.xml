@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Story on anastasiiamorozova</title>
+    <link>https://anastasiiamorozova.github.io/website/tags/visual-story/</link>
+    <description>Recent content in Visual Story on anastasiiamorozova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0100</lastBuildDate><atom:link href="https://anastasiiamorozova.github.io/website/tags/visual-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I created an ML model to uncover drug-trafficking on Telegram</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/drugs/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/drugs/</guid>
+      
+        <description>&lt;p&gt;I scraped 500,000 messages from 1,500 &lt;strong&gt;Telegram&lt;/strong&gt; channels using &lt;strong&gt;Telethon&lt;/strong&gt; and a snowballing method, then built a &lt;strong&gt;Doc2Vec classifier&lt;/strong&gt; trained on 300 manually labeled drug ads to identify advertisements at scale. The investigation showed that Poland&amp;rsquo;s online drug market runs on Telegram, InPost parcel lockers, and BLIK — &lt;a href=&#34;https://vsquare.org/faster-than-pizza-delivery-polands-online-drug-market-telegram-parcel-lockers-inpost-blik-police/&#34; target=&#34;_blank&#34;&gt;the full story is here&lt;/a&gt;, and below is how I built it.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Mapping Russia&#39;s War Machine on NATO&#39;s Doorstep</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/nato-bases/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/nato-bases/</guid>
+      
+        <description>&lt;p&gt;We used high-resolution &lt;strong&gt;satellite imagery&lt;/strong&gt; to map Russian military base activity along NATO&amp;rsquo;s eastern border. &lt;strong&gt;GRU&lt;/strong&gt; special forces in Kaliningrad are being trained for sabotage operations, and new nuclear weapons infrastructure is taking shape in Belarus.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Online neo-Nazi Store and Customers From Central Europe Exposed</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/midgard/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/midgard/</guid>
+      
+        <description>&lt;p&gt;A &lt;strong&gt;database of 20,000 purchases&lt;/strong&gt; from the neo-Nazi webshop Midgård was leaked by the antifascist organization AFA. We analyzed the &lt;strong&gt;customer register&lt;/strong&gt; to map how widespread its Central European sales network is, identifying buyers across Poland, Czechia, and Slovakia.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Unpacking CEE&#39;s biggest oil company&#39;s promises to go green</title>
+      <link>https://anastasiiamorozova.github.io/website/posts/orlen/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      
+      <guid>https://anastasiiamorozova.github.io/website/posts/orlen/</guid>
+      
+        <description>&lt;p&gt;Orlen presents itself as a green energy leader. We dug into &lt;strong&gt;company filings&lt;/strong&gt; and &lt;strong&gt;public data&lt;/strong&gt; and found a company fighting to preserve oil refining profits, using Poland&amp;rsquo;s slow green transition as cover. Published as a &lt;strong&gt;scrollytelling&lt;/strong&gt; piece.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
