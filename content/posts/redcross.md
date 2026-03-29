@@ -8,6 +8,8 @@ thumbnail = "images/redcross2.jpeg"
 
 As a child, I dreamed of going to the famous Artek camp in Crimea — a legendary summer camp. Vacations there were among the most expensive in Ukraine, and you could only get in for achievements in school or sports. Every kid in my class envied those who got to go — there was a water park, hiking in the mountains, trips to the cinema, even the chance to get a branded backpack. Regular summer camps couldn’t compare.
 
+<!--more-->
+
 A three-week stay at Artek cost $1,200 — the equivalent of three months’ salary for an accountant at the Ukrainian tax office. My mother’s salary.
 
 Fifteen years later, I’m working on a series of publications called “Kremlin Leaks.” In one of our pieces, colleagues from Delfi, Expressen, and Paper Trail Media reveal that Ukrainian children no longer go to Artek as a reward for good grades. The Russian Red Cross now takes them there for “re-education.” Instead of children’s entertainment — shooting Kalashnikovs and knife fighting.
@@ -17,8 +19,6 @@ At the end of April, the board of the International Federation of Red Cross and 
 How did the meeting end? The IFRC decided to strengthen its cooperation with the Russian Red Cross.
 
 Godspeed to them.
-
-<!--more-->
 
 This series include several texts:
 
