@@ -6,11 +6,33 @@ title = 'KREMLIN LEAKS: how Putin turned the Red Cross into a tool of propaganda
 thumbnail = "images/redcross2.jpeg"
 +++
 
-**Leaked documents** show how the Russian Red Cross, legally required to stay neutral, became a vehicle for Kremlin propaganda. We traced how Moscow uses it to extend influence abroad under the cover of the International Red Cross brand.
+Here’s a natural English translation that keeps the tone and weight of the original:
+
+---
+
+As a child, I dreamed of going to the famous Artek camp in Crimea — a legendary summer camp. Vacations there were among the most expensive in Ukraine, and you could only get in for achievements in school or sports. Every kid in my class envied those who got to go — there was a water park, hiking in the mountains, trips to the cinema, even the chance to get a branded backpack. Regular summer camps couldn’t compare.
+
+A three-week stay at Artek cost $1,200 — the equivalent of three months’ salary for an accountant at the Ukrainian tax office. My mother’s salary.
+
+Fifteen years later, I’m working on a series of publications called “Kremlin Leaks.” In one of our pieces, colleagues from Delfi, Expressen, and Paper Trail Media reveal that Ukrainian children no longer go to Artek as a reward for good grades. The Russian Red Cross now takes them there for “re-education.” Instead of children’s entertainment — shooting Kalashnikovs and knife fighting.
+
+At the end of April, the board of the International Federation of Red Cross and Red Crescent Societies (IFRC) held a four-day meeting to discuss the Russian branch’s ties to the Kremlin (which we recently exposed as part of the “Kremlin Leaks” project).
+
+How did the meeting end? The IFRC decided to strengthen its cooperation with the Russian Red Cross.
+
+Godspeed to them.
 
 <!--more-->
 
-<img src="/website/images/redcross2.jpeg" alt="Cover" style="max-width:80%; border-radius:8px; display:block; margin:1.5rem auto;">
+This series include several texts:
 
+**<a href="https://vsquare.org/kremlin-leaks-russia-red-cross-ukrainian-children-guns/" target="_blank">Kremlin Leaks: Russian Red Cross Works With Groups Deporting Ukrainian Children</a>**
 
-**<a href="https://vsquare.org/kremlin-leaks-putin-red-cross-propaganda-war/" target="_blank">Read the full story.</a>**
+**<a href="https://vsquare.org/kremlin-leaks-putin-red-cross-propaganda-war/" target="_blank">Kremlin Leaks: How Putin turned the Red Cross into a tool of propaganda and war</a>**
+
+**<a href="https://vsquare.org/kremlin-leaks-putin-elections-russia-propaganda-ukraine/" target="_blank">Kremlin Leaks: Secret Files Reveal How Putin Pre-Rigged his Reelection</a>**
+
+**<a href="https://vsquare.org/kremlin-leaks-russia-putin-ai-surveillance-facial-recognition-ntechlab/" target="_blank">Kremlin Leaks: How Putin’s Regime is Building AI Surveillance Operations</a>**
+
+**<a href="https://vsquare.org/kremlin-leaks-red-cross-ifrc-russia-ukraine-savchuk/" target="_blank">The series had an impact!<br>Kremlin Leaks: Following revelations, Red Cross finally decides on Russian group’s fate</a>**
+

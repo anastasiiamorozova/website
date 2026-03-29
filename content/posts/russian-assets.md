@@ -1,6 +1,6 @@
 +++
 date = '2022-09-01T00:00:00+01:00'
-draft = false
+draft = true
 tags = ["Investigation", "OSINT"]
 title = 'RUSSIAN ASSET TRACKER'
 thumbnail = "images/occrp.jpg"
