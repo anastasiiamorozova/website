@@ -6,10 +6,6 @@ title = 'KREMLIN LEAKS: how Putin turned the Red Cross into a tool of propaganda
 thumbnail = "images/redcross2.jpeg"
 +++
 
-Here’s a natural English translation that keeps the tone and weight of the original:
-
----
-
 As a child, I dreamed of going to the famous Artek camp in Crimea — a legendary summer camp. Vacations there were among the most expensive in Ukraine, and you could only get in for achievements in school or sports. Every kid in my class envied those who got to go — there was a water park, hiking in the mountains, trips to the cinema, even the chance to get a branded backpack. Regular summer camps couldn’t compare.
 
 A three-week stay at Artek cost $1,200 — the equivalent of three months’ salary for an accountant at the Ukrainian tax office. My mother’s salary.
